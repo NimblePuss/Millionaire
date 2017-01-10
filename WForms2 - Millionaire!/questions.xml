@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question>Как называется место на берегу, где обитают тюлени?</Question>
+    <Answer1>Лежбище</Answer1>
+    <Answer2>Стойбище</Answer2>
+    <Answer3>Пастбище</Answer3>
+    <Answer4>Гульбище</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Как мировая пресса называла премьер-министра Великобритании Маргарет Тэтчер?</Question>
+    <Answer1>Железная леди</Answer1>
+    <Answer2>Стальная леди</Answer2>
+    <Answer3>Оловянный солдатик</Answer3>
+    <Answer4>Крепкий орешек</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Какой из этих городов южнее остальных?</Question>
+    <Answer1>Каир</Answer1>
+    <Answer2>Токио</Answer2>
+    <Answer3>Мадрид</Answer3>
+    <Answer4>Сан-Франциско</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Через какой город мира проходит нулевой меридиан?</Question>
+    <Answer1>Гринвич</Answer1>
+    <Answer2>Гринсборо</Answer2>
+    <Answer3>Глазго</Answer3>
+    <Answer4>Гронинген</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Какая птица является символом Новой Зеландии?</Question>
+    <Answer1>Киви</Answer1>
+    <Answer2>Жако</Answer2>
+    <Answer3>Эму</Answer3>
+    <Answer4>Казуар</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Какого короля англичане прозвали "Львиное сердце"?</Question>
+    <Answer1>Ричард I</Answer1>
+    <Answer2>Вильгельм I</Answer2>
+    <Answer3>Георг I</Answer3>
+    <Answer4>Генрих I</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Как в народе называются финансовые институты, обещающие вкладчикам золотые горы?</Question>
+    <Answer1>Пирамиды</Answer1>
+    <Answer2>Гробницы</Answer2>
+    <Answer3>Захоронения</Answer3>
+    <Answer4>Сфинксы</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Какая награда вручается вместе с присвоением звания Героя России?</Question>
+    <Answer1>Медаль "Золотая Звезда"</Answer1>
+    <Answer2>Медаль "За отвагу"</Answer2>
+    <Answer3>Орден Суворова</Answer3>
+    <Answer4>Орден мужества</Answer4>
+  </Questions>
+  <Questions>
+    <Question>В каком городе родился Вольфганг Амадей Моцарт?</Question>
+    <Answer1>Зальцбург</Answer1>
+    <Answer2>Веймар</Answer2>
+    <Answer3>Прага</Answer3>
+    <Answer4>Вена</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Какую реку Юлий Цезарь перешел со словами "Жребий брошен"?</Question>
+    <Answer1>Рубикон</Answer1>
+    <Answer2>Припять</Answer2>
+    <Answer3>Нил</Answer3>
+    <Answer4>Евфрат</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Как называется искусство аранжировки цветов?</Question>
+    <Answer1>Икебана</Answer1>
+    <Answer2>Суши</Answer2>
+    <Answer3>Кэндо</Answer3>
+    <Answer4>Харакири</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Как называют японских мафиози?</Question>
+    <Answer1>Якудза</Answer1>
+    <Answer2>Джакузи</Answer2>
+    <Answer3>Камикадзе</Answer3>
+    <Answer4>Коза Ностра</Answer4>
+  </Questions>
+  <Questions>
+    <Question>Участник какого из перечисленных спортивных состязаний экипирован винтовкой?</Question>
+    <Answer1>Биатлон</Answer1>
+    <Answer2>Бейсбол</Answer2>
+    <Answer3>Бадминтон</Answer3>
+    <Answer4>Бобслей</Answer4>
+  </Questions>
+  <Questions>
+    <Question>В каком канадском городе находится самая высокая в мире телебашня?</Question>
+    <Answer1>Торонто</Answer1>
+    <Answer2>Оттава</Answer2>
+    <Answer3>Ванкувер</Answer3>
+    <Answer4>Монреаль</Answer4>
+  </Questions>
+  <Questions>
+    <Question>В каком виде спорта прославился Евгений Кафельников?</Question>
+    <Answer1>Теннис</Answer1>
+    <Answer2>Бокс</Answer2>
+    <Answer3>Футбол</Answer3>
+    <Answer4>Баскетбол</Answer4>
+  </Questions>
+</ArrayOfQuestions>
